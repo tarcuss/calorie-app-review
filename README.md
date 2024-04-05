@@ -8,7 +8,7 @@ If you want to see the source codes, you can contact me via my e-mail or LinkedI
 
 E-mail: yunusdinc00@gmail.com
 
-LinkedIn: [https://www.linkedin.com/in/yunus-din%C3%A7-567a18179/](https://www.linkedin.com/in/yunus-din%C3%A7-567a18179/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/yunus-din%C3%A7-567a18179/)
 
 This app has 4 main secreen 
 
