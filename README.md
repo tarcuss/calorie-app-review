@@ -36,7 +36,8 @@ This app has 4 main secreen
 # My Foods Secreen
  - This page can be used when you want to add a special food.
 
-![Uploading Myfoods-ezgif.com-speed.gif…]()
+![Myfoods-ezgif com-speed](https://github.com/tarcuss/calorie-app-review/assets/103863429/c554622c-5b61-446c-81a7-f7c2b07b21ee)
+
 
 
 # Recipe Secreen
