@@ -21,9 +21,7 @@ This app has 4 main secreen
 
    
 ![search1](https://github.com/tarcuss/calorie-app-review/assets/103863429/ab73af60-7d2e-4791-9e71-5c82d2af1d06)
-![sortinsearch-ezgif com-video-to-gif-converter](https://github.com/tarcuss/calorie-app-review/assets/103863429/93b55c8a-6858-4548-8ac8-90b18021a37c)
-
-
+![sortinsearch-ezgif com-optimize](https://github.com/tarcuss/calorie-app-review/assets/103863429/287e0761-d466-4ebf-8959-8705f5ddf28a)
 
 
 # Favorite Secreen 
