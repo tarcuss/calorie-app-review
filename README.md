@@ -5,7 +5,9 @@ In this App, you can learn about food nutrients, to create recipes, add your spe
 This app is still under development.
 
 If you want to see the source codes, you can contact me via my e-mail or LinkedIn address.
+
 E-mail: yunusdinc00@gmail.com
+
 LinkedIn: [https://www.linkedin.com/in/yunus-din%C3%A7-567a18179/](https://www.linkedin.com/in/yunus-din%C3%A7-567a18179/)
 
 This app has 4 main secreen 
