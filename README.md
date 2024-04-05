@@ -18,28 +18,33 @@ This app has 4 main secreen
  - Your search history is kept in the background.
  - Can go to the detail page, when you press on the dishes.
  - Food nutrients are written on the detail page.
+
    
-![search1](https://github.com/tarcuss/Calorie-APP/assets/103863429/73aae6aa-4fc3-4b47-9cdf-0fb22b7ad707)
-![recipeedit](https://github.com/tarcuss/Calorie-APP/assets/103863429/8cc0c35a-5e89-4a5b-82a6-90f158e90753)
+![search1](https://github.com/tarcuss/calorie-app-review/assets/103863429/ab73af60-7d2e-4791-9e71-5c82d2af1d06)
+![recipeedit](https://github.com/tarcuss/calorie-app-review/assets/103863429/9490c761-fe1b-4f6f-a726-fc6fcafc4fbf)
+
+
 
 
 # Favorite Secreen 
  - You can add food to the favorites page.
  - Use the heart on the detail page to favorite the food.
 
-![favori-ezgif com-video-to-gif-converter](https://github.com/tarcuss/Calorie-APP/assets/103863429/88a09c4b-557e-48ea-8f55-332f84dd77ea)
+![favori-ezgif com-video-to-gif-converter](https://github.com/tarcuss/calorie-app-review/assets/103863429/9f3d4d85-6a70-4ff5-9a59-b3d0b9e72bbd)
 
 
 # My Foods Secreen
  - This page can be used when you want to add a special food.
 
-![Myfoods-ezgif com-speed](https://github.com/tarcuss/Calorie-APP/assets/103863429/1c2439de-9dee-47a3-9b0f-23bdfbfddbb9)
+![Uploading Myfoods-ezgif.com-speed.gif…]()
+
 
 # Recipe Secreen
  - in this secreen, you can create your recipes
-
-![recipeedit-ezgif com-video-to-gif-converter](https://github.com/tarcuss/Calorie-APP/assets/103863429/dab44d94-7f0d-4090-8389-59ccd94e319d)
+   
+![ezgif com-createrecipe](https://github.com/tarcuss/calorie-app-review/assets/103863429/006c04f7-15a5-4404-8963-719e90dbe51d)
 
  - also You can edit your recipes.
 
-![ezgif com-createrecipe](https://github.com/tarcuss/Calorie-APP/assets/103863429/d47926e7-b171-44e6-97b1-4c1198843483)
+![recipeedit](https://github.com/tarcuss/calorie-app-review/assets/103863429/f911cff1-f570-4a9d-8ff7-d2e4d32d0040)
+
