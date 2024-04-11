@@ -50,7 +50,7 @@ This app has 4 main secreen
 # Update 1
  - When you click on the recipe details on the recipe screen, you can now see the content of 100 grams of the recipe, including the total nutrients.
 
-<img src="https://github.com/tarcuss/calorie-app-review/assets/103863429/2ad0e3af-b0c3-4a0d-8aad-b2d0983134fb" width="100">
-<img src="https://github.com/tarcuss/calorie-app-review/assets/103863429/20d3e8a2-ec30-457e-a2e8-381a9863d8a4" width="100">
+<img src="https://github.com/tarcuss/calorie-app-review/assets/103863429/2ad0e3af-b0c3-4a0d-8aad-b2d0983134fb" width="250">
+<img src="https://github.com/tarcuss/calorie-app-review/assets/103863429/20d3e8a2-ec30-457e-a2e8-381a9863d8a4" width="250">
 
 
