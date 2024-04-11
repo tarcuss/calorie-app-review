@@ -39,11 +39,18 @@ This app has 4 main secreen
 
 
 # Recipe Secreen
- - in this secreen, you can create your recipes
+ - In this secreen, you can create your recipes
    
 ![ezgif com-createrecipe](https://github.com/tarcuss/calorie-app-review/assets/103863429/006c04f7-15a5-4404-8963-719e90dbe51d)
 
- - also You can edit your recipes.
+ - Also You can edit your recipes.
 
 ![recipeedit](https://github.com/tarcuss/calorie-app-review/assets/103863429/f911cff1-f570-4a9d-8ff7-d2e4d32d0040)
+
+# Update 1
+ - When you click on the recipe details on the recipe screen, you can now see the content of 100 grams of the recipe, including the total nutrients.
+
+![Image 2](https://github.com/tarcuss/calorie-app-review/assets/103863429/2ad0e3af-b0c3-4a0d-8aad-b2d0983134fb)
+![Image](https://github.com/tarcuss/calorie-app-review/assets/103863429/20d3e8a2-ec30-457e-a2e8-381a9863d8a4)
+
 
