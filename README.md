@@ -20,32 +20,34 @@ This app has 4 main secreen
  - Food nutrients are written on the detail page.
 
    
-![search1](https://github.com/tarcuss/calorie-app-review/assets/103863429/ab73af60-7d2e-4791-9e71-5c82d2af1d06)
-![sortinsearch-ezgif com-optimize](https://github.com/tarcuss/calorie-app-review/assets/103863429/287e0761-d466-4ebf-8959-8705f5ddf28a)
+![search1-ezgif com-optimize](https://github.com/tarcuss/calorie-app-review/assets/103863429/40a48cb0-f53a-436b-82c2-94b5fd15fc28)
+![sortinsearch-ezgif com-optimize (1)](https://github.com/tarcuss/calorie-app-review/assets/103863429/5aef0e36-e38e-4152-b3f9-aca68a50e71d)
 
 
 # Favorite Secreen 
  - You can add food to the favorites page.
  - Use the heart on the detail page to favorite the food.
 
-![favori-ezgif com-video-to-gif-converter](https://github.com/tarcuss/calorie-app-review/assets/103863429/9f3d4d85-6a70-4ff5-9a59-b3d0b9e72bbd)
+![favori-ezgif com-optimize](https://github.com/tarcuss/calorie-app-review/assets/103863429/5aecef24-8e3e-4247-8d79-39fb747dc0a1)
 
 
 # My Foods Secreen
  - This page can be used when you want to add a special food.
 
-![Myfoods-ezgif com-speed](https://github.com/tarcuss/calorie-app-review/assets/103863429/c554622c-5b61-446c-81a7-f7c2b07b21ee)
+![Myfoods-ezgif com-optimize](https://github.com/tarcuss/calorie-app-review/assets/103863429/b892ef27-fba6-4aa4-89cc-daa40c9c3b64)
 
 
 
 # Recipe Secreen
  - In this secreen, you can create your recipes
    
-![ezgif com-createrecipe](https://github.com/tarcuss/calorie-app-review/assets/103863429/006c04f7-15a5-4404-8963-719e90dbe51d)
+![ezgif com-optimize (1)](https://github.com/tarcuss/calorie-app-review/assets/103863429/b904d0a0-9977-4a32-918a-1a187838a6e7)
+
 
  - Also You can edit your recipes.
 
-![recipeedit](https://github.com/tarcuss/calorie-app-review/assets/103863429/f911cff1-f570-4a9d-8ff7-d2e4d32d0040)
+![recipeedit-ezgif com-optimize](https://github.com/tarcuss/calorie-app-review/assets/103863429/93eaa3a2-bb1e-446d-92a5-21e1a3dde6ed)
+
 
 # Update 1
  - When you click on the recipe details on the recipe screen, you can now see the content of 100 grams of the recipe, including the total nutrients.
