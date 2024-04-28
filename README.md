@@ -13,7 +13,7 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/yunus-din%C3%A7-567a18179/)
 This app has 4 main secreen 
 
 # Search Secreen
- - Can search any food in main data.
+ - Can search any food in main data. 
  - Can sort food in nutrients.
  - Your search history is kept in the background.
  - Can go to the detail page, when you press on the dishes.
