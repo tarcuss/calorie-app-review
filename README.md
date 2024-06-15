@@ -56,3 +56,14 @@ This app has 4 main secreen
 <img src="https://github.com/tarcuss/calorie-app-review/assets/103863429/20d3e8a2-ec30-457e-a2e8-381a9863d8a4" width="250">
 
 
+# Update 2 
+ - Added login secreen
+   - Can sing up and to the app.
+   - Can send your data from cloud.
+   - Can transfer your data in the cloud to your local storage.
+<img src="https://github.com/tarcuss/calorie-app-review/assets/103863429/d423a99e-326c-4dd2-b739-e6b9bf4421f5" width="250">
+<img src="https://github.com/tarcuss/calorie-app-review/assets/103863429/2b690f43-caa0-4a53-b56d-63142f929f2c" width="250">
+
+
+
+
