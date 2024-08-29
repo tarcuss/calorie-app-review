@@ -65,5 +65,18 @@ This app has 4 main secreen
 <img src="https://github.com/tarcuss/calorie-app-review/assets/103863429/2b690f43-caa0-4a53-b56d-63142f929f2c" width="250">
 
 
+# Update 3 **Big Update
+ - Added barcode scanner from adding new food.
+  - can scan any product and adding all nutrient contents from text inputs.
+
+![scanner](https://github.com/user-attachments/assets/193ba51b-c375-41f5-b36f-274860503dd6)
+
+-Added share screen
+ -can share recipes and meals
+ -can customize it with many options
+<img src="https://github.com/tarcuss/calorie-app-review/photos/shareScreen" width="250">
+<img src="https://github.com/tarcuss/calorie-app-review/photos/confurgeShareScreen" width="250">
+<img src="https://github.com/tarcuss/calorie-app-review/photos/colorPicker" width="250">
+
 
 
