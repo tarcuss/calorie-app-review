@@ -74,9 +74,9 @@ This app has 4 main secreen
 -Added share screen
  -can share recipes and meals
  -can customize it with many options
-<img src="https://github.com/tarcuss/calorie-app-review/photos/shareScreen" width="250">
-<img src="https://github.com/tarcuss/calorie-app-review/photos/confurgeShareScreen" width="250">
-<img src="https://github.com/tarcuss/calorie-app-review/photos/colorPicker" width="250">
+<img src="https://github.com/tarcuss/calorie-app-review/tree/main/photos/shareScreen" width="250">
+<img src="https://github.com/tarcuss/calorie-app-review/tree/main/photos/confurgeShareScreen" width="250">
+<img src="https://github.com/tarcuss/calorie-app-review/tree/main/photos/colorPicker" width="250">
 
 
 
