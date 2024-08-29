@@ -80,4 +80,9 @@ This app has 4 main secreen
 <img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/shareScreen.png" width="250"><img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/confurgeShareScreen.png" width="250"><img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/colorPicker.png" width="250">
 
 
+- Editted Recipe Screen Components
+
+<img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/recipesecreenNew.png" width="250">
+  
+
 
