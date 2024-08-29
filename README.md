@@ -73,7 +73,7 @@ This app has 4 main secreen
 ![scanner](https://github.com/user-attachments/assets/193ba51b-c375-41f5-b36f-274860503dd6)
 
 
--Added share screen
+ -Added share screen
   -can share recipes and meals
   -can customize it with many options
 
