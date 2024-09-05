@@ -90,7 +90,11 @@ This app has 4 main secreen
   - All datas in local stroage so, develop compression algorithm for adding more languge.
   - Thanks to this Algorithm, the size of the data has been reduced by 90%.
 
--About Profile Screen
-  -Profile screen was then suspended for further development.
+- About Profile Screen
+  - Profile screen was then suspended for further development.
+ 
+
+- Work for adding new food
+
 
 
