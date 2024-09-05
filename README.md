@@ -94,7 +94,5 @@ This app has 4 main secreen
   - Profile screen was then suspended for further development.
  
 
-- Work for adding new food
-
 
 
