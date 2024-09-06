@@ -84,7 +84,7 @@ This app has 4 main secreen
 
 <img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/recipesecreenNew.png" width="250">
 
-- Added amount refrances special for each food
+- Added amount refrance data for special each food
 
 <img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/image.png" width="250">  
 
