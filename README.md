@@ -84,14 +84,19 @@ This app has 4 main secreen
 
 <img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/recipesecreenNew.png" width="250">
 
+- Added amount refrances special for each food
+
+<img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/image.png" width="250">  
+
 - Added more languages
-  - It was increased to 7 languages from data. They are tr,en,es,fr,it,de,pt.
+  - It was increased to 7 languages from data and interface. They are tr,en,es,fr,it,de,pt.
   - 4 more languages ​​have been added for the interface. They are zh,ru,ko,hi.
   - All datas in local stroage so, develop compression algorithm for adding more languge.
   - Thanks to this Algorithm, the size of the data has been reduced by 90%.
 
 - About Profile Screen
   - Profile screen was then suspended for further development.
+  
  
 
 
