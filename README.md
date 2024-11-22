@@ -104,9 +104,6 @@ This app has 4 main secreen
   - Profile screen converted to Me screen!
   - In this screen, you can record the foods you eat daily and learn information about them. You can learn your daily needs by entering your personal information.
 
-<img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/v4.1.png" width="250">  
-<img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/v4.2.png" width="250">  
-<img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/v4.3.png" width="250">  
-<img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/v4.4.png" width="250">  
+<img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/v4.1.png" width="250">  <img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/v4.2.png" width="250">  <img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/v4.3.png" width="250">  <img src="https://github.com/tarcuss/calorie-app-review/blob/main/photos/v4.4.png" width="250">  
 
 
